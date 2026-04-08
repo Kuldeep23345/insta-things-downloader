@@ -110,23 +110,6 @@ Users can switch between different content types:
 ### Media Proxy
 The `/api/download-proxy` endpoint securely proxies media requests to avoid CORS issues and protect any API keys.
 
-## Environment Variables
-
-Create a `.env.local` file with any required environment variables:
-
-```env
-# Example - add any required API keys or configuration here
-NEXT_PUBLIC_EXAMPLE_KEY=your_key_here
-```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Built with [Next.js](https://nextjs.org/)
